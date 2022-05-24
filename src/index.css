@@ -1,0 +1,9 @@
+
+.image{
+  background-size: contain;
+  background-image: url('./food.jpg');
+  height: 100vh;
+ background-position: center;
+ box-sizing: border-box;
+  opacity: 0.9;
+}  
